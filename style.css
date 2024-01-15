@@ -21,6 +21,9 @@
     margin-left: 4rem;
 }
 
+.container{
+    margin-bottom: 3rem;
+}
 .logo-img {
     width: 80px; /* Adjust the width as needed */
     margin-left: 20px; /* Add margin for spacing */
